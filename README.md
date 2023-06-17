@@ -36,6 +36,7 @@ command to run if program contains helper info
 ## Authors
 
 Marvin D. Galang
+San Pedro, minalin, pampanga
 @Dizzie
 
 ex. Dominique Pizzie  
