@@ -1,1 +1,6 @@
 file change test one
+
+
+I wanted this to be in working
+
+this will add to working area again
